@@ -112,11 +112,11 @@ Create a `.env` file:
 
 ```env
 PORT=5000
-MONGO_URI=Your MongoDB URI
-JWT_SECRET=Your JWT Secret
+MONGO_URI= MongoDB URI
+JWT_SECRET= JWT Secret
 
-EMAIL_USER=Your Gmail
-EMAIL_PASS=Your Gmail App Password
+EMAIL_USER= Gmail
+EMAIL_PASS= Gmail App Password
 ```
 
 ---
@@ -155,3 +155,9 @@ Kan-Guard
 **Protect • Empower • Respect**
 
 Safe Childhood. Stronger Tomorrow.
+
+## Notice
+
+This project is shared for learning and portfolio purposes.
+
+Please do not copy, redistribute, or submit this work as your own academic project without permission from the author.
